@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame3.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame3.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_red_tube_top.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/red_tube_top.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame7.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame7.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xxxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/xml_preference_live_preview_quickstart.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/xml/preference_live_preview_quickstart.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-mdpi/ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-mdpi/ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_style_circular_button.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/style_circular_button.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/raw_hit.ogg.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/raw/hit.ogg"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xxhdpi/ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_game_over.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/game_over.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/layout_toggle_style.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/layout/toggle_style.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/raw_wing.ogg.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/raw/wing.ogg"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_main_background.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/main_background.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/layout_settings_style.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/layout/settings_style.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xhdpi/ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-mdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_logo_mlkit.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/logo_mlkit.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/layout_game_over.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/layout/game_over.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame4.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame4.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame5.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame5.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/raw_swoosh.ogg.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/raw/swoosh.ogg"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame1.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame1.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame8.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame8.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_red_tube_bottom.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/red_tube_bottom.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_play.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xxhdpi/ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/raw_point.ogg.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/raw/point.ogg"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xhdpi/ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_list_item_background.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/list_item_background.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame6.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame6.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/menu_camera_button_menu.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/menu/camera_button_menu.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_tube_bottom.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/tube_bottom.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_bird_frame2.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/bird_frame2.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/layout-land_activity_vision_live_preview.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/layout-land/activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/layout_activity_vision_live_preview.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/layout/activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable_tube_top.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable/tube_top.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xxxhdpi/ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-hdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/jb/workspace/Android/FaceBird/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "/Users/jb/workspace/Android/FaceBird/app/src/main/res/drawable-xxxhdpi/ic_switch_camera_white_48dp_inset.png"
+    }
+]

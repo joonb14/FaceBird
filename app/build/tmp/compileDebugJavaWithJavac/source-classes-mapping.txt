@@ -1,0 +1,67 @@
+com/google/mlkit/vision/demo/preference/LivePreviewPreferenceFragment.java
+ com.google.mlkit.vision.demo.preference.LivePreviewPreferenceFragment
+com/google/mlkit/vision/demo/java/facedetector/FaceGraphic.java
+ com.google.mlkit.vision.demo.java.facedetector.FaceGraphic
+com/google/mlkit/vision/demo/GameOver.java
+ com.google.mlkit.vision.demo.GameOver
+com/google/mlkit/vision/demo/VisionImageProcessor.java
+ com.google.mlkit.vision.demo.VisionImageProcessor
+com/google/mlkit/vision/demo/SoundBank.java
+ com.google.mlkit.vision.demo.SoundBank
+com/google/mlkit/vision/demo/FrameMetadata.java
+ com.google.mlkit.vision.demo.FrameMetadata
+ com.google.mlkit.vision.demo.FrameMetadata$1
+ com.google.mlkit.vision.demo.FrameMetadata$Builder
+com/google/mlkit/vision/demo/InferenceInfoGraphic.java
+ com.google.mlkit.vision.demo.InferenceInfoGraphic
+com/google/mlkit/vision/demo/BitmapBank.java
+ com.google.mlkit.vision.demo.BitmapBank
+com/google/mlkit/vision/demo/CameraImageGraphic.java
+ com.google.mlkit.vision.demo.CameraImageGraphic
+com/google/mlkit/vision/demo/ScopedExecutor.java
+ com.google.mlkit.vision.demo.ScopedExecutor
+com/google/mlkit/vision/demo/Bird.java
+ com.google.mlkit.vision.demo.Bird
+com/google/mlkit/vision/demo/preference/SettingsActivity.java
+ com.google.mlkit.vision.demo.preference.SettingsActivity
+ com.google.mlkit.vision.demo.preference.SettingsActivity$LaunchSource
+com/google/mlkit/vision/demo/GameActivity.java
+ com.google.mlkit.vision.demo.GameActivity
+com/google/mlkit/vision/demo/GraphicOverlay.java
+ com.google.mlkit.vision.demo.GraphicOverlay
+ com.google.mlkit.vision.demo.GraphicOverlay$Graphic
+com/google/mlkit/vision/demo/CameraSourcePreview.java
+ com.google.mlkit.vision.demo.CameraSourcePreview
+ com.google.mlkit.vision.demo.CameraSourcePreview$1
+ com.google.mlkit.vision.demo.CameraSourcePreview$SurfaceCallback
+com/google/mlkit/vision/demo/java/VisionProcessorBase.java
+ com.google.mlkit.vision.demo.java.VisionProcessorBase
+ com.google.mlkit.vision.demo.java.VisionProcessorBase$1
+com/google/mlkit/vision/demo/preference/PreferenceUtils.java
+ com.google.mlkit.vision.demo.preference.PreferenceUtils
+com/google/mlkit/vision/demo/BitmapUtils.java
+ com.google.mlkit.vision.demo.BitmapUtils
+com/google/mlkit/vision/demo/BackgroundImage.java
+ com.google.mlkit.vision.demo.BackgroundImage
+com/google/mlkit/vision/demo/BuildConfig.java
+ com.google.mlkit.vision.demo.BuildConfig
+com/google/mlkit/vision/demo/Tube.java
+ com.google.mlkit.vision.demo.Tube
+com/google/mlkit/vision/demo/CameraSource.java
+ com.google.mlkit.vision.demo.CameraSource
+ com.google.mlkit.vision.demo.CameraSource$1
+ com.google.mlkit.vision.demo.CameraSource$CameraPreviewCallback
+ com.google.mlkit.vision.demo.CameraSource$FrameProcessingRunnable
+ com.google.mlkit.vision.demo.CameraSource$SizePair
+com/google/mlkit/vision/demo/GameThread.java
+ com.google.mlkit.vision.demo.GameThread
+com/google/mlkit/vision/demo/GameView.java
+ com.google.mlkit.vision.demo.GameView
+com/google/mlkit/vision/demo/AppConstants.java
+ com.google.mlkit.vision.demo.AppConstants
+com/google/mlkit/vision/demo/GameEngine.java
+ com.google.mlkit.vision.demo.GameEngine
+com/google/mlkit/vision/demo/java/LivePreviewActivity.java
+ com.google.mlkit.vision.demo.java.LivePreviewActivity
+com/google/mlkit/vision/demo/java/facedetector/FaceDetectorProcessor.java
+ com.google.mlkit.vision.demo.java.facedetector.FaceDetectorProcessor
