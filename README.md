@@ -1,7 +1,7 @@
 # FaceBird
 
 ## Based on
-This work is based on <a href="https://developers.google.com/ml-kit"></a>ML Kit.<br>
+This work is based on <a href="https://developers.google.com/ml-kit">ML Kit</a>.<br>
 And the FlappyBird clone game is based on <a href="https://sandipbhattacharya.com/">sandip's work</a>. <br>
 
 ## How to Play
