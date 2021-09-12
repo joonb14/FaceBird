@@ -9,7 +9,7 @@ Using ML Kit's Euler X,Y you can control the Bird by rotating your head.
 
 ## Demo Video
 
-[![S21](https://youtu.be/711i-9qP4lk/0.jpg)](https://youtu.be/711i-9qP4lk)<br>
+[![S21](https://img.youtube.com/vi/711i-9qP4lk/0.jpg)](https://youtu.be/711i-9qP4lk)<br>
 
 Click the image above to watch the demo video.
 
