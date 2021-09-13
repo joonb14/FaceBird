@@ -116,10 +116,14 @@ public class GameEngine {
         int y_diff = (int) FaceDetectorProcessor.y_diff;
         if (x_diff != 0.0f) {
             int now_X = curX - x_diff;
+            if(now_X > AppConstants.SCREEN_WIDTH-170) now_X = AppConstants.SCREEN_WIDTH-170;
+            else if(now_X < 0) now_X = 0;
             bird.setX(now_X);
         }
         if (y_diff != 0.0f) {
             int now_Y = curY - y_diff;
+            if(now_Y > AppConstants.SCREEN_HEIGHT-150) now_Y = AppConstants.SCREEN_HEIGHT-150;
+            else if(now_Y < 0) now_Y = 0;
             bird.setY(now_Y);
         }
 

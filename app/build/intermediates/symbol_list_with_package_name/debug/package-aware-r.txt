@@ -1230,6 +1230,8 @@ layout support_simple_spinner_dropdown_item
 layout toggle_style
 menu camera_button_menu
 mipmap ic_launcher
+mipmap ic_launcher_adaptive_back
+mipmap ic_launcher_adaptive_fore
 raw hit
 raw point
 raw swoosh
